@@ -1,0 +1,28 @@
+C:\Users\robin\Downloads\valor_de_matricula\CalculoMatriculaProyecto\bin\Debug\net8.0\CalculoMatriculaProyecto.exe
+C:\Users\robin\Downloads\valor_de_matricula\CalculoMatriculaProyecto\bin\Debug\net8.0\CalculoMatriculaProyecto.deps.json
+C:\Users\robin\Downloads\valor_de_matricula\CalculoMatriculaProyecto\bin\Debug\net8.0\CalculoMatriculaProyecto.runtimeconfig.json
+C:\Users\robin\Downloads\valor_de_matricula\CalculoMatriculaProyecto\bin\Debug\net8.0\CalculoMatriculaProyecto.dll
+C:\Users\robin\Downloads\valor_de_matricula\CalculoMatriculaProyecto\bin\Debug\net8.0\CalculoMatriculaProyecto.pdb
+C:\Users\robin\Downloads\valor_de_matricula\CalculoMatriculaProyecto\obj\Debug\net8.0\CalculoMatriculaProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\Downloads\valor_de_matricula\CalculoMatriculaProyecto\obj\Debug\net8.0\CalculoMatriculaProyecto.AssemblyInfoInputs.cache
+C:\Users\robin\Downloads\valor_de_matricula\CalculoMatriculaProyecto\obj\Debug\net8.0\CalculoMatriculaProyecto.AssemblyInfo.cs
+C:\Users\robin\Downloads\valor_de_matricula\CalculoMatriculaProyecto\obj\Debug\net8.0\CalculoMatriculaProyecto.csproj.CoreCompileInputs.cache
+C:\Users\robin\Downloads\valor_de_matricula\CalculoMatriculaProyecto\obj\Debug\net8.0\CalculoMatriculaProyecto.dll
+C:\Users\robin\Downloads\valor_de_matricula\CalculoMatriculaProyecto\obj\Debug\net8.0\refint\CalculoMatriculaProyecto.dll
+C:\Users\robin\Downloads\valor_de_matricula\CalculoMatriculaProyecto\obj\Debug\net8.0\CalculoMatriculaProyecto.pdb
+C:\Users\robin\Downloads\valor_de_matricula\CalculoMatriculaProyecto\obj\Debug\net8.0\CalculoMatriculaProyecto.genruntimeconfig.cache
+C:\Users\robin\Downloads\valor_de_matricula\CalculoMatriculaProyecto\obj\Debug\net8.0\ref\CalculoMatriculaProyecto.dll
+C:\Users\robin\Downloads\valor_de_matricula - copia\CalculoMatriculaProyecto\obj\Debug\net8.0\CalculoMatriculaProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\Downloads\valor_de_matricula - copia\CalculoMatriculaProyecto\obj\Debug\net8.0\CalculoMatriculaProyecto.AssemblyInfoInputs.cache
+C:\Users\robin\Downloads\valor_de_matricula - copia\CalculoMatriculaProyecto\obj\Debug\net8.0\CalculoMatriculaProyecto.AssemblyInfo.cs
+C:\Users\robin\Downloads\valor_de_matricula - copia\CalculoMatriculaProyecto\obj\Debug\net8.0\CalculoMatriculaProyecto.csproj.CoreCompileInputs.cache
+C:\Users\robin\Downloads\valor_de_matricula - copia\CalculoMatriculaProyecto\obj\Debug\net8.0\CalculoMatriculaProyecto.dll
+C:\Users\robin\Downloads\valor_de_matricula - copia\CalculoMatriculaProyecto\obj\Debug\net8.0\refint\CalculoMatriculaProyecto.dll
+C:\Users\robin\Downloads\valor_de_matricula - copia\CalculoMatriculaProyecto\obj\Debug\net8.0\CalculoMatriculaProyecto.pdb
+C:\Users\robin\Downloads\valor_de_matricula - copia\CalculoMatriculaProyecto\bin\Debug\net8.0\CalculoMatriculaProyecto.exe
+C:\Users\robin\Downloads\valor_de_matricula - copia\CalculoMatriculaProyecto\bin\Debug\net8.0\CalculoMatriculaProyecto.deps.json
+C:\Users\robin\Downloads\valor_de_matricula - copia\CalculoMatriculaProyecto\bin\Debug\net8.0\CalculoMatriculaProyecto.runtimeconfig.json
+C:\Users\robin\Downloads\valor_de_matricula - copia\CalculoMatriculaProyecto\bin\Debug\net8.0\CalculoMatriculaProyecto.dll
+C:\Users\robin\Downloads\valor_de_matricula - copia\CalculoMatriculaProyecto\bin\Debug\net8.0\CalculoMatriculaProyecto.pdb
+C:\Users\robin\Downloads\valor_de_matricula - copia\CalculoMatriculaProyecto\obj\Debug\net8.0\CalculoMatriculaProyecto.genruntimeconfig.cache
+C:\Users\robin\Downloads\valor_de_matricula - copia\CalculoMatriculaProyecto\obj\Debug\net8.0\ref\CalculoMatriculaProyecto.dll
